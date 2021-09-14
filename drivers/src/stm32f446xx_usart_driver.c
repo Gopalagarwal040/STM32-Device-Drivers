@@ -2,7 +2,7 @@
  * stm32f446xx_usart_driver.c
  *
  *  Created on: 30-May-2021
- *      Author: Apoorv singh negi
+ *      Author: Gopal Agarwal
  */
 
 #include "stm32f446xx.h"
