@@ -2,7 +2,7 @@
  * stm32f446xx_i2c_driver.h
  *
  *  Created on: 20-May-2021
- *      Author: Apoorv singh negi
+ *      Author: Gopal Agarwal
  */
 
 #ifndef INC_STM32F446XX_I2C_DRIVER_H_
