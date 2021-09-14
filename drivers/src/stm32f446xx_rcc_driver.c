@@ -2,7 +2,7 @@
  * stm32f446xx_rcc_driver.c
  *
  *  Created on: 02-Jun-2021
- *      Author: Apoorv singh negi
+ *      Author: Gopal Agarwal
  */
 
 
