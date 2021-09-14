@@ -2,7 +2,7 @@
  * stm32f446xx_usart_driver.h
  *
  *  Created on: 30-May-2021
- *      Author: Apoorv singh negi
+ *      Author: Gopal Agarwal
  */
 
 #ifndef INC_STM32F446XX_USART_DRIVER_H_
