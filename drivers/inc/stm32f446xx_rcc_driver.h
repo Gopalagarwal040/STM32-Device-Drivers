@@ -2,7 +2,7 @@
  * stm32f446xx_rcc_driver.h
  *
  *  Created on: 02-Jun-2021
- *      Author: Apoorv singh negi
+ *      Author: Gopal Agarwal
  */
 
 #ifndef INC_STM32F446XX_RCC_DRIVER_H_
