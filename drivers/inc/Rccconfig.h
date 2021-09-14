@@ -2,7 +2,7 @@
  * Rccconfig.h
  *
  *  Created on: 28-Jun-2021
- *      Author: Apoorv singh negi
+ *      Author: Gopal Agarwal
  */
 
 #ifndef INC_RCCCONFIG_H_
