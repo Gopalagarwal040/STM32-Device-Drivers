@@ -2,7 +2,7 @@
  * stm32f446xx.h
  *
  *  Created on: Apr 7, 2021
- *      Author: Apoorv singh negi
+ *      Author: Gopal Agarwal
  */
 
 #ifndef INC_STM32F446XX_H_
