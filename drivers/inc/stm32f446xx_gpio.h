@@ -2,7 +2,7 @@
  * stm32f446xx_gpio.h
  *
  *  Created on: Apr 8, 2021
- *      Author: Apoorv singh negi
+ *      Author: Gopal Agarwal
  */
 
 #ifndef INC_STM32F446XX_GPIO_H_
