@@ -2,7 +2,8 @@
  * stm32f446xx_spi_driver.c
  *
  *  Created on: 08-May-2021
- *      Author: Apoorv singh negi
+ *      Author: Gopal Agarwal
+ 
  */
 
 #include "stm32f446xx.h"
